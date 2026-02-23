@@ -25,3 +25,9 @@ Features ✨
 
 🔗 Page Links: Extract and display all links from a webpage.
 
+
+
+
+To download the tool, follow these steps if you are a user termux
+
+1. git clone
