@@ -30,4 +30,10 @@ Features ✨
 
 To download the tool, follow these steps if you are a user termux
 
-1. git clone
+1. git clone https://github.com/sanwu7/sand-scan-web
+
+2. cd sand-scan-web
+
+3. ls 
+
+4. bash sand.sh
